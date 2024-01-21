@@ -52,8 +52,8 @@
 
 # Contacto
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ermer-mejias-carranza-a36b39232)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](elmermejias47@gmail.com)
 
 <!--
 **ing-Elmer/ing-Elmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
