@@ -1,7 +1,7 @@
  # <img src="https://media.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif" width="200"/>  Bienvenid@ a mi GitHub
  
 
-  ![Banner de ING-Elmer](Card1.png)
+  ![Banner de ING-Elmer](Card2.png)
 
 
 ## Lenguajes
