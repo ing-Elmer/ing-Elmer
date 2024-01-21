@@ -3,7 +3,12 @@
 
   ![Banner de ING-Elmer](card2.png)
 
+# Contacto
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
+(www.linkedin.com/in/ermer-mejias-carranza-a36b39232)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+(elmermejias47@gmail.com)
 ## Lenguajes
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -50,10 +55,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# Contacto
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ermer-mejias-carranza-a36b39232)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](elmermejias47@gmail.com)
 
 <!--
 **ing-Elmer/ing-Elmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
