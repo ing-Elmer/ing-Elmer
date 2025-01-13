@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ermer-mejias-carranza-a36b39232)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://elmermejias47@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-%25?style=for-the-badge&logo=portafolio&logoColor=white)]([https://elmermejias47@gmail.com](https://www.ing-elmer.software/))
+[![Portafolio](https://img.shields.io/badge/Portafolio-%25?style=for-the-badge&logo=portafolio&logoColor=white)](https://www.ing-elmer.software/)
 
 ## Lenguajes
 
